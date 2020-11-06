@@ -28,7 +28,6 @@ class EncryptManger private constructor() {
 
         const val SHARED_PREFERENCES_ENCRYPT_NAME = "SharedPreferencesEncrypt"
         const val SHARED_PREFERENCES_KEY_AES_SECRET_KEY = "SharedPreferencesKeyAESSecretKey"
-        const val SHARED_PREFERENCES_KEY_AES_IV = "SharedPreferencesKeyAESIv"
 
         const val ANDROID_KEY_STORE = "AndroidKeyStore"
 
